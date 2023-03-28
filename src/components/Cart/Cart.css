@@ -1,0 +1,36 @@
+.shopping-cart{
+    margin: 0 auto;
+    background: rgba(255, 153, 0, 0.3);
+    min-height: 400px;
+    padding:10px;
+    position: sticky;
+    color: #2A414F;
+    font-size: 17px;
+    position: sticky;
+}
+.text-center{
+    text-align: center;
+}
+.mt-20{
+    margin-top: 20px;
+}
+.mt-10{
+    margin-top: 10px;
+}
+.btn-danger{
+    padding: 12px;
+    background-color: #FF3030;
+    border: none;
+    border-radius: 10px;
+    width: 90%;
+}
+.btn-orange{
+    padding: 12px;
+    background-color: #FF9900;
+    border: none;
+    border-radius: 10px;
+    width: 90%;
+}
+.mx-auto{
+    margin: 0 auto;
+}
